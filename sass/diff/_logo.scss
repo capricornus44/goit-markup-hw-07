@@ -1,0 +1,14 @@
+.logo {
+  font-family: $additional-font-family;
+  font-weight: 700;
+  font-size: 26px;
+  line-height: 1.17;
+  text-decoration: none;
+  
+  color: $additional-text-color;
+
+  & span{
+    color: $accent-color;
+  }
+}
+  
