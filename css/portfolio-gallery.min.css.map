@@ -1,9 +1,0 @@
-{
-    "version": 3,
-    "mappings": "",
-    "sources": [
-        "../ssas/components/portfolio-gallery.scss"
-    ],
-    "names": [],
-    "file": "portfolio-gallery.min.css"
-}
