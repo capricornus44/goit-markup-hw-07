@@ -26,9 +26,7 @@
 }
 
 .hero-button, .sign-up-button, .modal-button {
-  display: -webkit-inline-box;
-  display: -ms-inline-flexbox;
-  display: inline-flex;
+  display: inline-block;
   padding-top: 10px;
   padding-bottom: 10px;
   border: 1px solid transparent;
